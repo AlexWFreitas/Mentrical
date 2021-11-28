@@ -1,0 +1,10 @@
+{"properties": [{
+  "name": "aps.app.jwtExpirationMs",
+  "type": "java.lang.String",
+  "description": "Expiration time for the JWT Token."
+},
+{
+  "name": "aps.app.jwtSecret",
+  "type": "java.lang.String",
+  "description": "Secret Key to use when encoding the JWT Token."
+}]}
